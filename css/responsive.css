@@ -1,0 +1,297 @@
+@media only screen and (max-width: 1024px) {
+    .nav-item {
+        margin-left: 0px !important;
+        margin-right: 0px !important;
+    }
+
+    .price-plan {
+        width: auto !important;
+        height: 700px !important;
+    }
+
+    .itr-link ul li a {
+        font-size: 16px !important;
+    }
+
+    .acroding {
+        font-size: 15px !important;
+    }
+
+    .slidr-img::before {
+        right: 53px !important;
+    }
+
+    .hid-t {
+        font-size: 13px !important;
+        padding-right: 20px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .f-light {
+        font-size: 15px !important;
+    }
+
+    .section-title {
+        font-size: 36px !important;
+    }
+
+    .support {
+        margin-bottom: 20px;
+    }
+
+    .grid-title {
+        font-size: 14px !important;
+    }
+
+    .grid-sub-title {
+        color: #FFFFFF;
+        font-size: 10px !important;
+    }
+
+    .itr-link ul li a {
+        font-size: 12px !important;
+    }
+
+    .int-sub {
+        font-size: 12px !important;
+    }
+
+    .acroding {
+        font-size: 10px !important;
+    }
+
+    .btn-plan {
+        width: 165px !important;
+    }
+
+    .price-plan {
+        padding: 70px 20px !important;
+        height: 600px !important;
+    }
+
+    .wrk-list li {
+        font-size: 14px !important;
+    }
+
+    .slidr-img::before {
+        right: 0px !important;
+    }
+
+    .hid-t {
+        padding: 0 !important;
+        margin-bottom: 0px !important;
+    }
+
+    .member-text {
+        padding: 40px 14px !important;
+    }
+
+    .team-title {
+        font-size: 18px !important;
+    }
+
+    .member-icon {
+        font-size: 11px !important;
+    }
+
+    .member-icon i {
+        margin-right: 0px !important;
+        font-size: 15px !important;
+    }
+
+    .mail-t {
+        color: #777777 !important;
+        font-size: 13px !important;
+    }
+
+    .ftr-link li {
+        margin-right: 10px !important;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+
+    .video-text {
+        background: #303030;
+        height: 400px;
+        width: auto !important;
+    }
+
+    .search-bar1:focus {
+        width: 300px !important;
+    }
+
+    .header-text {
+        padding-left: 20px !important;
+    }
+
+    .bold-text {
+        font-size: 39px !important;
+    }
+
+    .header-subtitle {
+        font-size: 12px !important;
+    }
+
+    .section-title {
+        font-size: 40px !important;
+    }
+
+    .text-sr {
+        margin-bottom: 40px;
+    }
+
+    .f-light {
+        font-size: 17px !important;
+    }
+
+    .pl-30 {
+        margin-top: 40px;
+        padding: 0px !important;
+    }
+
+    .fl-btn {
+        margin-bottom: 20px;
+    }
+
+    .grid-title {
+        font-size: 20px !important;
+    }
+
+    .grid-sub-title {
+        font-size: 13px !important;
+    }
+
+    .itr-link ul li a {
+        font-size: 18px !important;
+    }
+
+    .itr-link {
+        text-align: center;
+    }
+
+    .itr-link ul li {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .interface-img {
+        position: relative;
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+
+    .int-sub {
+        font-size: 18px !important;
+    }
+
+    .acroding {
+        font-size: 17px !important;
+        margin-bottom: 20px;
+    }
+
+    .brand {
+        text-align: center;
+        padding-bottom: 50px !important;
+    }
+
+    .brand img {
+        margin-bottom: 40px;
+    }
+
+    .price-plan {
+        padding: 70px 30px !important;
+        width: auto !important;
+        height: 600px !important;
+        margin-bottom: 50px;
+    }
+
+    .wrk-list li {
+        font-size: 17px !important;
+    }
+
+    .pln-lead {
+        font-size: 19px !important;
+    }
+
+    .btn-plan {
+        width: 250px !important;
+    }
+
+    .pr-30 {
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    .b-clr {
+        height: 640px !important;
+        text-align: center;
+        margin-bottom: 50px !important;
+    }
+
+    .date-sub {
+        font-size: 26px !important;
+
+    }
+
+    .hid-t {
+        font-size: 16px !important;
+        padding-right: 0px !important;
+    }
+
+    .team-member img {
+        width: 600px !important;
+    }
+
+    .team-member {
+        margin-bottom: 40px;
+    }
+
+    .team-title {
+        font-size: 23px !important;
+    }
+
+    .member-icon {
+        font-size: 14px !important;
+    }
+
+    .member-icon i {
+        margin-right: 10px !important;
+        font-size: 17px !important;
+    }
+
+    .foter-text {
+        margin-top: 40px;
+    }
+
+    .header-wrap {
+        padding: 0px 0px !important;
+    }
+
+}
+
+@media only screen and (max-width: 375px) {
+    .layer {
+        font-size: 15px !important;
+    }
+
+    .f-light {
+        font-size: 21px !important;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .section-title {
+        font-size: 32px !important;
+    }
+
+    .f-light {
+        font-size: 18px !important;
+    }
+
+    .section-main {
+        color: #2E2E2D;
+        font-size: 36px !important;
+    }
+}
